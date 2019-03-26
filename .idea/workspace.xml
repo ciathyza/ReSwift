@@ -1,38 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a492d25a-f195-402e-b460-c8eb90ce3002" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/ReSwift_iOS.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/ReSwift_macOS.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/ReSwift_tvOS.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/ReSwift_watchOS.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ReSwift/CoreTypes/Action.swift" beforeDir="false" afterPath="$PROJECT_DIR$/ReSwift/CoreTypes/Action.swift" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ReSwift/CoreTypes/DispatchingStoreType.swift" beforeDir="false" afterPath="$PROJECT_DIR$/ReSwift/CoreTypes/DispatchingStoreType.swift" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ReSwift/CoreTypes/Middleware.swift" beforeDir="false" afterPath="$PROJECT_DIR$/ReSwift/CoreTypes/Middleware.swift" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ReSwift/CoreTypes/Reducer.swift" beforeDir="false" afterPath="$PROJECT_DIR$/ReSwift/CoreTypes/Reducer.swift" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ReSwift/CoreTypes/State.swift" beforeDir="false" afterPath="$PROJECT_DIR$/ReSwift/CoreTypes/State.swift" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ReSwift/CoreTypes/Store.swift" beforeDir="false" afterPath="$PROJECT_DIR$/ReSwift/CoreTypes/Store.swift" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ReSwift/CoreTypes/StoreSubscriber.swift" beforeDir="false" afterPath="$PROJECT_DIR$/ReSwift/CoreTypes/StoreSubscriber.swift" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ReSwift/CoreTypes/StoreType.swift" beforeDir="false" afterPath="$PROJECT_DIR$/ReSwift/CoreTypes/StoreType.swift" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ReSwift/CoreTypes/Subscription.swift" beforeDir="false" afterPath="$PROJECT_DIR$/ReSwift/CoreTypes/Subscription.swift" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ReSwift/Utils/Assertions.swift" beforeDir="false" afterPath="$PROJECT_DIR$/ReSwift/Utils/Assertions.swift" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ReSwift/Utils/Coding.swift" beforeDir="false" afterPath="$PROJECT_DIR$/ReSwift/Utils/Coding.swift" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ReSwift/Utils/TypeHelper.swift" beforeDir="false" afterPath="$PROJECT_DIR$/ReSwift/Utils/TypeHelper.swift" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ReSwiftTests/AutomaticallySkipRepeatsTests.swift" beforeDir="false" afterPath="$PROJECT_DIR$/ReSwiftTests/AutomaticallySkipRepeatsTests.swift" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ReSwiftTests/PerformanceTests.swift" beforeDir="false" afterPath="$PROJECT_DIR$/ReSwiftTests/PerformanceTests.swift" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ReSwiftTests/StoreDispatchTests.swift" beforeDir="false" afterPath="$PROJECT_DIR$/ReSwiftTests/StoreDispatchTests.swift" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ReSwiftTests/StoreMiddlewareTests.swift" beforeDir="false" afterPath="$PROJECT_DIR$/ReSwiftTests/StoreMiddlewareTests.swift" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ReSwiftTests/StoreSubscriberTests.swift" beforeDir="false" afterPath="$PROJECT_DIR$/ReSwiftTests/StoreSubscriberTests.swift" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ReSwiftTests/StoreSubscriptionTests.swift" beforeDir="false" afterPath="$PROJECT_DIR$/ReSwiftTests/StoreSubscriptionTests.swift" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ReSwiftTests/StoreTests.swift" beforeDir="false" afterPath="$PROJECT_DIR$/ReSwiftTests/StoreTests.swift" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ReSwiftTests/TestFakes.swift" beforeDir="false" afterPath="$PROJECT_DIR$/ReSwiftTests/TestFakes.swift" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ReSwiftTests/TypeHelperTests.swift" beforeDir="false" afterPath="$PROJECT_DIR$/ReSwiftTests/TypeHelperTests.swift" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ReSwiftTests/XCTest+Assertions.swift" beforeDir="false" afterPath="$PROJECT_DIR$/ReSwiftTests/XCTest+Assertions.swift" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ReSwiftTests/XCTest+Compatibility.swift" beforeDir="false" afterPath="$PROJECT_DIR$/ReSwiftTests/XCTest+Compatibility.swift" afterDir="false" />
-    </list>
+    <list default="true" id="a492d25a-f195-402e-b460-c8eb90ce3002" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,10 +12,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ReSwiftTests/XCTest+Compatibility.swift">
+        <entry file="file://$PROJECT_DIR$/ReSwift/CoreTypes/Action.swift">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+            <state relative-caret-position="285">
+              <caret line="19" selection-start-line="19" selection-end-line="19" />
             </state>
           </provider>
         </entry>
@@ -114,17 +83,6 @@
               <item name="ReSwift" type="fcab9f18:XcodeViewNode" />
               <item name="CoreTypes" type="fcab9f18:XcodeViewNode" />
             </path>
-            <path>
-              <item name="" type="efc3779f:XcodeRootNode" />
-              <item name="ReSwift" type="1d218c8b:XcodeProjectNode" />
-              <item name="ReSwift" type="fcab9f18:XcodeViewNode" />
-              <item name="Utils" type="fcab9f18:XcodeViewNode" />
-            </path>
-            <path>
-              <item name="" type="efc3779f:XcodeRootNode" />
-              <item name="ReSwift" type="1d218c8b:XcodeProjectNode" />
-              <item name="ReSwiftTests" type="fcab9f18:XcodeViewNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -166,12 +124,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1553581717934</updated>
-      <workItem from="1553581720662" duration="1360000" />
+      <workItem from="1553581720662" duration="1479000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1360000" />
+    <option name="totallyTimeSpent" value="1479000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="877" extended-state="0" />
@@ -205,13 +163,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ReSwift/CoreTypes/Action.swift">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ReSwift/CoreTypes/StoreSubscriber.swift">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="465">
@@ -368,8 +319,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ReSwiftTests/XCTest+Compatibility.swift">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
+        <state relative-caret-position="495">
           <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ReSwift/CoreTypes/Action.swift">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
         </state>
       </provider>
     </entry>
