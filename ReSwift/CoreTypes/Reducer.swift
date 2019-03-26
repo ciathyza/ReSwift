@@ -6,5 +6,4 @@
 //  Copyright © 2015 Benjamin Encz. All rights reserved.
 //
 
-public typealias Reducer<ReducerStateType> =
-    (_ action: Action, _ state: ReducerStateType?) -> ReducerStateType
+public typealias Reducer<ReducerStateType> = (_ action:Action, _ state:ReducerStateType?) -> ReducerStateType

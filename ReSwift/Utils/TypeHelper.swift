@@ -17,18 +17,17 @@
             casted to `SpecificStateType`.
  */
 @discardableResult
-func withSpecificTypes<SpecificStateType, Action>(
-        _ action: Action,
-        state genericStateType: StateType?,
-        function: (_ action: Action, _ state: SpecificStateType?) -> SpecificStateType
-    ) -> StateType {
-        guard let genericStateType = genericStateType else {
-            return function(action, nil) as! StateType
-        }
-
-        guard let specificStateType = genericStateType as? SpecificStateType else {
-            return genericStateType
-        }
-
-        return function(action, specificStateType) as! StateType
+func withSpecificTypes<SpecificStateType, Action>(_ action:Action, state genericStateType:StateType?, function:(_ action:Action, _ state:SpecificStateType?) -> SpecificStateType) -> StateType
+{
+	guard let genericStateType = genericStateType else
+	{
+		return function(action, nil) as! StateType
+	}
+	
+	guard let specificStateType = genericStateType as? SpecificStateType else
+	{
+		return genericStateType
+	}
+	
+	return function(action, specificStateType) as! StateType
 }
